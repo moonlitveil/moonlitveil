@@ -1,6 +1,6 @@
 <h1 align="center">I am</h1>
 <img src="GIF/GitHub.gif">
-<h3>A Python developer driven by curiosity and creativity. Coding isn’t just my skill — it’s my canvas for innovation.</h3>
+<h3>A Python developer driven by curiosity and creativity.<br>I love turning ideas into meaningful projects and learning something new every day.<br>Coding isn’t just my skill — it’s my canvas for innovation.</h3>
 <p align="center">Python, my code's sweet delight,</p>
 <p align="center">Elegant lines that shine so bright,</p>
 <p align="center">Simple yet powerful, pure and clean,</p>
