@@ -46,7 +46,7 @@
 </div>
 
 
-<h3 align="center"> Snake Game </h3>
+<h1 align="center"> Snake Game </h1>
 
 
 <picture>
