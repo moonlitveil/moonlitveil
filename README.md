@@ -5,7 +5,7 @@
 <p align="center">Python whispers logic I hold dear,</p>
 <p align="center">Indentation speaks where brackets fear,</p>
 <p align="center">A language of beauty, forever near.</p>
-<p></p>
+<br>
 <p align="center">Lists and dictionaries dance with grace,</p>
 <p align="center">Numpy and Pandas set a rapid pace,</p>
 <p align="center">Simplicity wrapped in powerful embrace,</p>
