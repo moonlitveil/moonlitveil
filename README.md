@@ -1,15 +1,10 @@
 <h1 align="center">I am</h1>
 <img src="GIF/GitHub.gif">
 <h3>A Python developer driven by curiosity and creativity. Coding isn’t just my skill — it’s my canvas for innovation.</h3>
-<p align="center">Serpentine syntax, elegant and clear,</p>
-<p align="center">Python whispers logic I hold dear,</p>
-<p align="center">Indentation speaks where brackets fear,</p>
-<p align="center">A language of beauty, forever near.</p>
-<br>
-<p align="center">Lists and dictionaries dance with grace,</p>
-<p align="center">Numpy and Pandas set a rapid pace,</p>
-<p align="center">Simplicity wrapped in powerful embrace,</p>
-<p align="center">My love for Python, no one can erase.</p>
+<p align="center">Python, my code's sweet delight,</p>
+<p align="center">Elegant lines that shine so bright,</p>
+<p align="center">Simple yet powerful, pure and clean,</p>
+<p align="center">The programming language of my dream.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moonlitveil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
