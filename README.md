@@ -5,6 +5,7 @@
 <p align="center">Python whispers logic I hold dear,</p>
 <p align="center">Indentation speaks where brackets fear,</p>
 <p align="center">A language of beauty, forever near.</p>
+<p></p>
 <p align="center">Lists and dictionaries dance with grace,</p>
 <p align="center">Numpy and Pandas set a rapid pace,</p>
 <p align="center">Simplicity wrapped in powerful embrace,</p>
@@ -51,9 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-
 <h1 align="center"> Snake Game </h1>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moonlitveil/moonlitveil/output/github-snake-dark.svg" />
