@@ -1,4 +1,6 @@
-<h1 align="center" style="font-family: Arial, sans-serif;">I am</h1>
+<link href="https://fonts.googleapis.com/css2?family=Courier+New:wght@400&family=Times+New+Roman:wght@400&display=swap" rel="stylesheet">
+
+<h1 align="center" style="font-family: 'Courier New', Courier, monospace;">I am</h1>
 <img src="GIF/GitHub.gif">
 <h3 style="font-family: 'Courier New', Courier, monospace;">A Python developer driven by curiosity and creativity.<br>I love turning ideas into meaningful projects and learning something new every day.<br>Coding isn’t just my skill — it’s my canvas for innovation.</h3>
 <p align="center" style="font-family: 'Times New Roman', Times, serif;">Python, my code's sweet delight,</p>
