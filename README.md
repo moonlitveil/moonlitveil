@@ -49,7 +49,7 @@
 
 <div align="center">
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=moonlitveil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
